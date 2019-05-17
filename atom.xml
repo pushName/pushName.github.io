@@ -5,9 +5,9 @@
   <subtitle>--进阶之路</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://studyz.club/"/>
+  <link href="https://pushname.github.io/"/>
   <updated>2019-05-16T08:16:00.379Z</updated>
-  <id>http://studyz.club/</id>
+  <id>https://pushname.github.io/</id>
   
   <author>
     <name>阿智</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CentOS 7.4配置ssh免密登录及出现的问题</title>
-    <link href="http://studyz.club/2019/05/16/CentOS%207.4%E9%85%8D%E7%BD%AEssh%E5%85%8D%E5%AF%86%E7%99%BB%E5%BD%95%E5%8F%8A%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-    <id>http://studyz.club/2019/05/16/CentOS 7.4配置ssh免密登录及出现的问题/</id>
+    <link href="https://pushname.github.io/2019/05/16/CentOS%207.4%E9%85%8D%E7%BD%AEssh%E5%85%8D%E5%AF%86%E7%99%BB%E5%BD%95%E5%8F%8A%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>https://pushname.github.io/2019/05/16/CentOS 7.4配置ssh免密登录及出现的问题/</id>
     <published>2019-05-16T03:03:27.365Z</published>
     <updated>2019-05-16T08:16:00.379Z</updated>
     
@@ -27,7 +27,7 @@
     
       
       
-        &lt;!-- build time:Fri May 17 2019 22:35:10 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;1-配置思路&quot;&gt;&lt;a href=&quot;#1-配置思路&quot; class=&quot;headerlink&quot; title=&quot;1 配置思路&quot;&gt;&lt;/a&gt;1 配
+        &lt;!-- build time:Sat May 18 2019 07:02:57 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;1-配置思路&quot;&gt;&lt;a href=&quot;#1-配置思路&quot; class=&quot;headerlink&quot; title=&quot;1 配置思路&quot;&gt;&lt;/a&gt;1 配
       
     
     </summary>
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://studyz.club/2019/05/13/hello-world/"/>
-    <id>http://studyz.club/2019/05/13/hello-world/</id>
+    <link href="https://pushname.github.io/2019/05/13/hello-world/"/>
+    <id>https://pushname.github.io/2019/05/13/hello-world/</id>
     <published>2019-05-13T02:54:12.039Z</published>
     <updated>2019-05-13T02:54:12.039Z</updated>
     
@@ -46,7 +46,7 @@
     
       
       
-        &lt;!-- build time:Fri May 17 2019 22:35:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener no
+        &lt;!-- build time:Sat May 18 2019 07:02:57 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener no
       
     
     </summary>
