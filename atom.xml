@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pushname.github.io/"/>
-  <updated>2019-05-16T08:16:00.379Z</updated>
+  <updated>2019-05-20T13:14:40.936Z</updated>
   <id>https://pushname.github.io/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>makedown语法</title>
+    <link href="https://pushname.github.io/2019/05/20/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
+    <id>https://pushname.github.io/2019/05/20/Markdown基本语法/</id>
+    <published>2019-05-20T10:55:15.478Z</published>
+    <updated>2019-05-20T13:14:40.936Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon May 20 2019 21:16:07 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这篇文章将会介绍简单的md语法&lt;/p&gt;&lt;h2 id=&quot;Markdown语法的基本介绍&quot;&gt;&lt;a href=&quot;#Markdown语法的基本介绍&quot; c
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://pushname.github.io/2019/05/18/%E5%9F%9F%E5%90%8D%E6%B2%A1%E6%9C%89%E5%90%AF%E7%94%A8coding/"/>
+    <id>https://pushname.github.io/2019/05/18/域名没有启用coding/</id>
+    <published>2019-05-18T00:44:07.088Z</published>
+    <updated>2019-05-18T00:44:07.088Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon May 20 2019 21:16:07 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>CentOS 7.4配置ssh免密登录及出现的问题</title>
@@ -27,26 +65,7 @@
     
       
       
-        &lt;!-- build time:Sat May 18 2019 07:47:47 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;1-配置思路&quot;&gt;&lt;a href=&quot;#1-配置思路&quot; class=&quot;headerlink&quot; title=&quot;1 配置思路&quot;&gt;&lt;/a&gt;1 配
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://pushname.github.io/2019/05/13/hello-world/"/>
-    <id>https://pushname.github.io/2019/05/13/hello-world/</id>
-    <published>2019-05-13T02:54:12.039Z</published>
-    <updated>2019-05-13T02:54:12.039Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sat May 18 2019 07:47:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener no
+        &lt;!-- build time:Mon May 20 2019 21:16:07 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;1-配置思路&quot;&gt;&lt;a href=&quot;#1-配置思路&quot; class=&quot;headerlink&quot; title=&quot;1 配置思路&quot;&gt;&lt;/a&gt;1 配
       
     
     </summary>
