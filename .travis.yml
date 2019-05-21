@@ -1,0 +1,25 @@
+language: node_js
+
+node_js:
+  - "10.15.3"
+
+install:
+  - npm install
+
+
+script:
+  - hexo clean
+  - hexo generate
+
+after_script:
+  - cd ./public
+  - git init
+  - git config user.name "pushName"
+  - git config user.email "417430464@qq.com"
+  - git add .
+  - git commit -m "Deploy blog pages"
+  - git push --force --quiet "https://5f68f5975c59b20ad4ce5923444858f332e480a4@github.com/nettee/nettee.github.io" master:master
+
+branches:
+  only:
+    - master
