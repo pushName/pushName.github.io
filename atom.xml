@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿智的个人博客</title>
+  
+  <subtitle>--进阶之路</subtitle>
+  <link href="http://www.studyz.club/atom.xml" rel="self"/>
+  
+  <link href="http://www.studyz.club/"/>
+  <updated>2021-03-04T18:11:36.474Z</updated>
+  <id>http://www.studyz.club/</id>
+  
+  <author>
+    <name>阿智</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>算法练习-二叉树涂色问题</title>
+    <link href="http://www.studyz.club/posts/b7e858de/"/>
+    <id>http://www.studyz.club/posts/b7e858de/</id>
+    <published>2021-03-04T17:58:17.147Z</published>
+    <updated>2021-03-04T18:11:36.474Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;二叉树涂色问题&quot;&gt;&lt;a href=&quot;#二叉树涂色问题&quot; class=&quot;headerlink&quot; title=&quot;二叉树涂色问题&quot;&gt;&lt;/a&gt;二叉树涂色问题&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;对二叉树进行涂色，涂一个节点会同时改变自身节点，父节点和两个子节点的颜色计</summary>
+      
+    
+    
+    
+    <category term="算法练习" scheme="http://www.studyz.club/categories/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0/"/>
+    
+    <category term="二叉树" scheme="http://www.studyz.club/categories/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0/%E4%BA%8C%E5%8F%89%E6%A0%91/"/>
+    
+    
+    <category term="算法练习" scheme="http://www.studyz.club/tags/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0/"/>
+    
+    <category term="二叉树" scheme="http://www.studyz.club/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python综合项目案例开发--使用GUI框架</title>
+    <link href="http://www.studyz.club/posts/855e4ddc/"/>
+    <id>http://www.studyz.club/posts/855e4ddc/</id>
+    <published>2020-06-05T00:38:41.099Z</published>
+    <updated>2020-12-01T01:13:46.946Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一,初识GUI&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.1 常用的GUI框架&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.2 wxPython 框架的使用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#</summary>
+      
+    
+    
+    
+    <category term="Pythong实战-使用GUI框架" scheme="http://www.studyz.club/categories/Pythong%E5%AE%9E%E6%88%98-%E4%BD%BF%E7%94%A8GUI%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="Pythong实战-使用GUI框架" scheme="http://www.studyz.club/tags/Pythong%E5%AE%9E%E6%88%98-%E4%BD%BF%E7%94%A8GUI%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python综合项目案例开发--使用Python操作数据库</title>
+    <link href="http://www.studyz.club/posts/fb315820/"/>
+    <id>http://www.studyz.club/posts/fb315820/</id>
+    <published>2020-05-23T08:00:55.227Z</published>
+    <updated>2020-12-01T01:13:46.948Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一，数据库编程接口&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.1&quot;&gt;1.1 连接接对象&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.2 游标对象&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;</summary>
+      
+    
+    
+    
+    <category term="Pythong实战-操作数据库" scheme="http://www.studyz.club/categories/Pythong%E5%AE%9E%E6%88%98-%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Pythong实战-操作数据库" scheme="http://www.studyz.club/tags/Pythong%E5%AE%9E%E6%88%98-%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据流处理框架--Storm</title>
+    <link href="http://www.studyz.club/posts/7c5fe410/"/>
+    <id>http://www.studyz.club/posts/7c5fe410/</id>
+    <published>2020-05-21T09:23:21.219Z</published>
+    <updated>2020-12-01T01:13:46.949Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一，什么是Storm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#2&quot;&gt;二，Storm基本概念&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;一，什么是Storm&quot;&gt;&lt;a href=&quot;#一，什么是Storm&quot; class=&quot;heade</summary>
+      
+    
+    
+    
+    <category term="大数据流处理框架Storm" scheme="http://www.studyz.club/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%B5%81%E5%A4%84%E7%90%86%E6%A1%86%E6%9E%B6Storm/"/>
+    
+    
+    <category term="大数据流处理框架Storm" scheme="http://www.studyz.club/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%B5%81%E5%A4%84%E7%90%86%E6%A1%86%E6%9E%B6Storm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内存计算框架--Spark编程模型</title>
+    <link href="http://www.studyz.club/posts/46aea7fc/"/>
+    <id>http://www.studyz.club/posts/46aea7fc/</id>
+    <published>2020-05-21T07:04:18.159Z</published>
+    <updated>2020-12-01T01:13:46.944Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一，Spark编程模型&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.1&quot;&gt;1.1，RDD弹性分布式数据集&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;一，Spark</summary>
+      
+    
+    
+    
+    <category term="内存计算框架spark" scheme="http://www.studyz.club/categories/%E5%86%85%E5%AD%98%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6spark/"/>
+    
+    
+    <category term="内存计算框架spark" scheme="http://www.studyz.club/tags/%E5%86%85%E5%AD%98%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6spark/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内存计算框架--spark简介</title>
+    <link href="http://www.studyz.club/posts/b4cafdd/"/>
+    <id>http://www.studyz.club/posts/b4cafdd/</id>
+    <published>2020-05-18T04:27:57.992Z</published>
+    <updated>2020-12-01T01:13:46.951Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;Spark架构与集群环境&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;一，Spark架构与集群环境&quot;&gt;&lt;a href=&quot;#一，Spark架构与集群环境&quot; class=&quot;headerlink&quot; title=&quot;一，Spark架构与集群环境</summary>
+      
+    
+    
+    
+    <category term="内存计算框架spark" scheme="http://www.studyz.club/categories/%E5%86%85%E5%AD%98%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6spark/"/>
+    
+    
+    <category term="内存计算框架spark" scheme="http://www.studyz.club/tags/%E5%86%85%E5%AD%98%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6spark/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据采集与清洗1</title>
+    <link href="http://www.studyz.club/posts/4c4d006d/"/>
+    <id>http://www.studyz.club/posts/4c4d006d/</id>
+    <published>2020-05-12T07:48:37.445Z</published>
+    <updated>2020-05-13T08:26:13.022Z</updated>
+    
+    
+    
+    
+    <category term="数据采集与清洗" scheme="http://www.studyz.club/categories/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E4%B8%8E%E6%B8%85%E6%B4%97/"/>
+    
+    
+    <category term="数据采集与清洗" scheme="http://www.studyz.club/tags/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E4%B8%8E%E6%B8%85%E6%B4%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scala学习之六函数式编程基础</title>
+    <link href="http://www.studyz.club/posts/7a630bb7/"/>
+    <id>http://www.studyz.club/posts/7a630bb7/</id>
+    <published>2020-04-02T08:44:15.175Z</published>
+    <updated>2020-05-13T08:26:13.019Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一，函数式编程基础&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.1&quot;&gt;1.1 函数式编程介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.2 函数的定义&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 </summary>
+      
+    
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/categories/Scala/"/>
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/tags/Scala/"/>
+    
+    <category term="Scala学习基础知识" scheme="http://www.studyz.club/tags/Scala%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scala学习之五运算符及程序流程控制</title>
+    <link href="http://www.studyz.club/posts/b07bb359/"/>
+    <id>http://www.studyz.club/posts/b07bb359/</id>
+    <published>2020-03-23T14:02:49.449Z</published>
+    <updated>2020-05-13T08:26:13.026Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;#1&quot;&gt;一，运算符介绍&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.1&quot;&gt;1.1 算术运算符一览&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.2 关系运算符(比较运算符)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a hr</summary>
+      
+    
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/categories/Scala/"/>
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/tags/Scala/"/>
+    
+    <category term="Scala学习基础知识" scheme="http://www.studyz.club/tags/Scala%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scala学习之三变量</title>
+    <link href="http://www.studyz.club/posts/4b8b8568/"/>
+    <id>http://www.studyz.club/posts/4b8b8568/</id>
+    <published>2020-03-21T07:32:46.257Z</published>
+    <updated>2020-05-13T08:26:13.024Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一,为什么需要变量&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;1.1 变量是程序的基本组成单位&lt;/li&gt;
+&lt;li&gt;1.2 变量基本使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#2&quot;&gt;二，数据类型&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;2.1 sc</summary>
+      
+    
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/categories/Scala/"/>
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/tags/Scala/"/>
+    
+    <category term="Scala学习基础知识" scheme="http://www.studyz.club/tags/Scala%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA常用快捷键</title>
+    <link href="http://www.studyz.club/posts/566321e7/"/>
+    <id>http://www.studyz.club/posts/566321e7/</id>
+    <published>2020-03-19T03:39:25.283Z</published>
+    <updated>2020-05-13T08:26:13.015Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;IntelliJ-Idea-常用快捷键列表&quot;&gt;&lt;a href=&quot;#IntelliJ-Idea-常用快捷键列表&quot; class=&quot;headerlink&quot; title=&quot;IntelliJ Idea 常用快捷键列表&quot;&gt;&lt;/a&gt;&lt;center&gt;IntelliJ Idea 常</summary>
+      
+    
+    
+    
+    <category term="IDEA" scheme="http://www.studyz.club/categories/IDEA/"/>
+    
+    
+    <category term="IDEA常用快捷键" scheme="http://www.studyz.club/tags/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scala学习之二基础知识</title>
+    <link href="http://www.studyz.club/posts/da6f95b8/"/>
+    <id>http://www.studyz.club/posts/da6f95b8/</id>
+    <published>2020-03-02T03:41:37.833Z</published>
+    <updated>2020-05-13T08:26:13.020Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一，什么是Scala&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.2 Scala和Java以及jvm的关系分析图&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.3&quot;&gt;1.3 Scala语言的特点&lt;/a&gt;&lt;/li&gt;
+&lt;l</summary>
+      
+    
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/categories/Scala/"/>
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/tags/Scala/"/>
+    
+    <category term="Scala学习基础知识" scheme="http://www.studyz.club/tags/Scala%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scala学习之一环境的搭建和入门</title>
+    <link href="http://www.studyz.club/posts/e0b09ebe/"/>
+    <id>http://www.studyz.club/posts/e0b09ebe/</id>
+    <published>2020-03-01T08:23:50.994Z</published>
+    <updated>2020-05-13T08:26:13.016Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一，Scala开发环境的搭建&quot;&gt;&lt;a href=&quot;#一，Scala开发环境的搭建&quot; class=&quot;headerlink&quot; title=&quot;一，Scala开发环境的搭建&quot;&gt;&lt;/a&gt;一，Scala开发环境的搭建&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;首先到Scala官</summary>
+      
+    
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/categories/Scala/"/>
+    
+    
+    <category term="Scala" scheme="http://www.studyz.club/tags/Scala/"/>
+    
+    <category term="Scala学习-环境的搭建和入门" scheme="http://www.studyz.club/tags/Scala%E5%AD%A6%E4%B9%A0-%E7%8E%AF%E5%A2%83%E7%9A%84%E6%90%AD%E5%BB%BA%E5%92%8C%E5%85%A5%E9%97%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>win10+php环境搭建</title>
+    <link href="http://www.studyz.club/posts/8ea26689/"/>
+    <id>http://www.studyz.club/posts/8ea26689/</id>
+    <published>2020-01-01T05:18:16.998Z</published>
+    <updated>2020-05-13T08:26:13.021Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一，Apache安装&quot;&gt;&lt;a href=&quot;#一，Apache安装&quot; class=&quot;headerlink&quot; title=&quot;一，Apache安装&quot;&gt;&lt;/a&gt;一，Apache安装&lt;/h2&gt;&lt;h3 id=&quot;①-下载网址https-www-apachelounge-com-</summary>
+      
+    
+    
+    
+    <category term="win10+php环境搭建" scheme="http://www.studyz.club/categories/win10-php%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="win10+php环境搭建" scheme="http://www.studyz.club/tags/win10-php%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hadoop-Hive的DDL数据定义以及DML数据操作</title>
+    <link href="http://www.studyz.club/posts/ded6657a/"/>
+    <id>http://www.studyz.club/posts/ded6657a/</id>
+    <published>2019-12-25T02:40:14.958Z</published>
+    <updated>2019-12-26T02:58:14.809Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一、DDL数据定义&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.1&quot;&gt;1.1、创建数据库&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.2、查询数据库&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.3&quot;&gt;1.3、修</summary>
+      
+    
+    
+    
+    <category term="hadoop-hive-DDL-DML" scheme="http://www.studyz.club/categories/hadoop-hive-DDL-DML/"/>
+    
+    
+    <category term="-hive" scheme="http://www.studyz.club/tags/hive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hive报错处理</title>
+    <link href="http://www.studyz.club/posts/c651ad21/"/>
+    <id>http://www.studyz.club/posts/c651ad21/</id>
+    <published>2019-12-22T14:59:32.869Z</published>
+    <updated>2019-12-26T02:58:14.798Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;问题一-FAILED-SemanticException-org-apache-hadoop-hive-ql-metadata-HiveException-java-lang-RuntimeException-Unable-to-instantiate-org-a</summary>
+      
+    
+    
+    
+    <category term="Hive" scheme="http://www.studyz.club/categories/Hive/"/>
+    
+    <category term="Hadoop-Hive" scheme="http://www.studyz.club/categories/Hive/Hadoop-Hive/"/>
+    
+    
+    <category term="Hadoop-Hive" scheme="http://www.studyz.club/tags/Hadoop-Hive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Centos7安装MySql8</title>
+    <link href="http://www.studyz.club/posts/c8a9c56e/"/>
+    <id>http://www.studyz.club/posts/c8a9c56e/</id>
+    <published>2019-12-22T05:53:03.053Z</published>
+    <updated>2019-12-26T02:58:14.797Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前期准备&quot;&gt;&lt;a href=&quot;#前期准备&quot; class=&quot;headerlink&quot; title=&quot;前期准备&quot;&gt;&lt;/a&gt;前期准备&lt;/h1&gt;&lt;h2 id=&quot;1、先检查有没有装过mysql&quot;&gt;&lt;a href=&quot;#1、先检查有没有装过mysql&quot; class=&quot;header</summary>
+      
+    
+    
+    
+    <category term="mysql" scheme="http://www.studyz.club/categories/mysql/"/>
+    
+    <category term="centos7-mysql8" scheme="http://www.studyz.club/categories/mysql/centos7-mysql8/"/>
+    
+    
+    <category term="centos7-mysql8" scheme="http://www.studyz.club/tags/centos7-mysql8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hadoop-Hive</title>
+    <link href="http://www.studyz.club/posts/23fb5515/"/>
+    <id>http://www.studyz.club/posts/23fb5515/</id>
+    <published>2019-12-21T14:04:45.363Z</published>
+    <updated>2019-12-26T02:58:14.812Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一、 Hive 基本概念&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1.1&quot;&gt;1.1、 什么是 Hive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#1.2&quot;&gt;1.2、Hive 的优缺点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;</summary>
+      
+    
+    
+    
+    <category term="hadoop-hive" scheme="http://www.studyz.club/categories/hadoop-hive/"/>
+    
+    
+    <category term="-hive" scheme="http://www.studyz.club/tags/hive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hadoop-Hbase与Hive集成</title>
+    <link href="http://www.studyz.club/posts/cb00c37b/"/>
+    <id>http://www.studyz.club/posts/cb00c37b/</id>
+    <published>2019-12-20T11:33:09.558Z</published>
+    <updated>2019-12-26T02:58:14.809Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一、 HBase 与 Hive 的对比&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#2&quot;&gt;二、HBase 与 Hive 集成使用&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#2.1&quot;&gt;2.1、Hive安装及配置&lt;/a&gt;&lt;/li&gt;
+&lt;/</summary>
+      
+    
+    
+    
+    <category term="hadoop" scheme="http://www.studyz.club/categories/hadoop/"/>
+    
+    <category term="hbase-Hive" scheme="http://www.studyz.club/categories/hadoop/hbase-Hive/"/>
+    
+    
+    <category term="-hbase - hbase-Hive" scheme="http://www.studyz.club/tags/hbase-hbase-Hive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>集群的时间同步问题</title>
+    <link href="http://www.studyz.club/posts/e854b1d5/"/>
+    <id>http://www.studyz.club/posts/e854b1d5/</id>
+    <published>2019-12-13T07:09:29.571Z</published>
+    <updated>2019-12-17T15:25:43.245Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;一、利用ntp服务自动同步网络时间(需要网络)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#2&quot;&gt;二、局域网内选一台服务器作为时间服务器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;一、自动同步网络时间-需要网络&quot;&gt;&lt;a href=</summary>
+      
+    
+    
+    
+    <category term="hadoop" scheme="http://www.studyz.club/categories/hadoop/"/>
+    
+    
+    <category term="集群的时间同步" scheme="http://www.studyz.club/tags/%E9%9B%86%E7%BE%A4%E7%9A%84%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5/"/>
+    
+  </entry>
+  
+</feed>
